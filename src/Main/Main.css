@@ -1,0 +1,11 @@
+.Para {
+  font-size: 14px;
+}
+
+.ButtonColorActive {
+  background-color: #e7fe29;
+  font-weight: bold;
+}
+.ButtonColorDeActive {
+  background-color: white;
+}
